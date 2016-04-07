@@ -96,7 +96,9 @@ public class GameManager : MonoBehaviour {
             numberCorrectTextBox.text = "" + numberCorrect;
             currentScore += 10;
             currentScoreTextBox.text = "" + currentScore;
-            
+            x.gameObject.SetActive(false);
+            check.gameObject.SetActive(true);
+
         }
         else
         {
@@ -106,9 +108,13 @@ public class GameManager : MonoBehaviour {
             numberIncorrectTextBox.text = "" + numberIncorrect;
             currentScore -= 5;
             currentScoreTextBox.text = "" + currentScore;
+            check.gameObject.SetActive(false);
+            x.gameObject.SetActive(true);
         }
 
         GenerateNewProblem();
 
     }
+
+
 }
