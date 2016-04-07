@@ -12,7 +12,8 @@ public class GameManager : MonoBehaviour {
     public Text currentScoreTextBox;
     public Text numberCorrectTextBox;
     public Text numberIncorrectTextBox;
-    public Image checkOrX;
+    public Image check;
+    public Image x;
     int currentCorrectAnswerIndex;
     int numberCorrect = 0;
     int numberIncorrect = 0;
@@ -95,6 +96,7 @@ public class GameManager : MonoBehaviour {
             numberCorrectTextBox.text = "" + numberCorrect;
             currentScore += 10;
             currentScoreTextBox.text = "" + currentScore;
+            
         }
         else
         {
