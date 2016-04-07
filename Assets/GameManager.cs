@@ -13,6 +13,9 @@ public class GameManager : MonoBehaviour {
     public Text numberCorrectTextBox;
     public Text numberIncorrectTextBox;
     int currentCorrectAnswerIndex;
+    int numberCorrect = 0;
+    int numberIncorrect = 0;
+    int currentScore = 0;
 
 
     
@@ -87,11 +90,19 @@ public class GameManager : MonoBehaviour {
         {
             Debug.Log("correct answer");
             feedbackTextBox.text = "Great job!";
+            numberCorrect++;
+            numberCorrectTextBox.text = "" + numberCorrect;
+            currentScore += 10;
+            currentScoreTextBox.text = "" + currentScore;
         }
         else
         {
             Debug.Log("incorrect");
             feedbackTextBox.text = "Incorrect.  Try the next one.";
+            numberIncorrect++;
+            numberIncorrectTextBox.text = "" + numberIncorrect;
+            currentScore -= 5;
+            currentScoreTextBox.text = "" + currentScore;
         }
 
         GenerateNewProblem();
