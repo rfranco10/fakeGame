@@ -9,6 +9,9 @@ public class GameManager : MonoBehaviour {
     public Text definitionTextBox;
     public Text[] buttonTextArray;
     public Text feedbackTextBox;
+    public Text currentScoreTextBox;
+    public Text numberCorrectTextBox;
+    public Text numberIncorrectTextBox;
     int currentCorrectAnswerIndex;
 
 
