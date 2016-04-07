@@ -12,6 +12,7 @@ public class GameManager : MonoBehaviour {
     public Text currentScoreTextBox;
     public Text numberCorrectTextBox;
     public Text numberIncorrectTextBox;
+    public Image checkOrX;
     int currentCorrectAnswerIndex;
     int numberCorrect = 0;
     int numberIncorrect = 0;
