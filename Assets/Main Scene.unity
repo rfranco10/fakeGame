@@ -1567,6 +1567,7 @@ Canvas:
   m_ReceivesEvents: 1
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
@@ -2239,6 +2240,13 @@ MonoBehaviour:
   - useful
   - right for the situation
   - searches thoroughly
+  - all the people and companies that make a certain type of product or provide a
+    certain type of service
+  - an object that has been made for a special purpose
+  - highly respected and admired
+  - cannot be controlled or held back
+  - a difficult act that impresses people
+  - a habit of doing something in a certain way
   answers:
   - provoke
   - customary
@@ -2322,7 +2330,13 @@ MonoBehaviour:
   - portable
   - practical
   - appropriate
-  - scouts
+  - scours
+  - industry
+  - device
+  - prestigious
+  - irrepressible
+  - feat
+  - tendency
   definitionTextBox: {fileID: 734772939}
   buttonTextArray:
   - {fileID: 2059731111}
