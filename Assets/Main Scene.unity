@@ -2204,7 +2204,7 @@ MonoBehaviour:
   - dull and unexciting
   - hate
   - valuable and special
-  - something that has strong currents with change direction suddenly
+  - something that has strong currents which change direction suddenly
   - a strong feeling of fear and anxiety that makes a person act unreasonably or without
     thinking carefully
   - excited and happy
@@ -2247,6 +2247,44 @@ MonoBehaviour:
   - cannot be controlled or held back
   - a difficult act that impresses people
   - a habit of doing something in a certain way
+  - thin, lightweight, and easily broken
+  - rejected
+  - when many people or animals enter a place all at once
+  - terrified of something without having a good reason for the fear
+  - moved back and forth
+  - separate sections for keeping things
+  - uncertain and can suddenly become dangerous
+  - a crowd of people
+  - expensive, rare, or carefully prepared
+  - much more costly or elaborate than what is really needed
+  - impossible to think that it might happen or exist
+  - begun
+  - a break for a period of time between events
+  - cannot understand or explain something
+  - a natural, almost automatic way that people or animals react to things
+  - suggested
+  - a sign that something exists or might happen
+  - something's most basic, important quality
+  - important things you notice or understand that other people may not see
+  - wanting to do something, even though you know you shouldn't
+  - sad
+  - dried out from lack of water
+  - overflowing with life or energy
+  - filled to the very top
+  - live
+  - an activity or task you take on in an effort to accomplish it
+  - repetitve and boring
+  - keep something going by giving it what it needs
+  - cannot be lived in
+  - tell what happened
+  - refilling something making it complete again
+  - disappear suddenly
+  - complicated or involved and has many small parts or details
+  - located below or beneath something
+  - collect over time
+  - stiff and does not change shape easily
+  - stretches easily
+  - stretches to a longer length
   answers:
   - provoke
   - customary
@@ -2337,6 +2375,44 @@ MonoBehaviour:
   - irrepressible
   - feat
   - tendency
+  - wispy
+  - vetoed
+  - invasion
+  - phobia
+  - swayed
+  - compartments
+  - precarious
+  - throng
+  - gourmet
+  - extravagant
+  - unimaginable
+  - embarked
+  - hiatus
+  - baffled
+  - instinct
+  - proposed
+  - indication
+  - essence
+  - insights
+  - tempted
+  - sorrowful
+  - parched
+  - teeming
+  - brimming
+  - dwell
+  - endeavor
+  - monotonous
+  - sustain
+  - uninhabitable
+  - recount
+  - replenishing
+  - vanish
+  - intricate
+  - underlying
+  - accumulate
+  - rigid
+  - elastic
+  - elongates
   definitionTextBox: {fileID: 734772939}
   buttonTextArray:
   - {fileID: 2059731111}
