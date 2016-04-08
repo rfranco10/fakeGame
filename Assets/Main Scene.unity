@@ -2285,6 +2285,28 @@ MonoBehaviour:
   - stiff and does not change shape easily
   - stretches easily
   - stretches to a longer length
+  - cannot be understood or known
+  - carefree, mischievous, or reckless adventures
+  - dried up and faded
+  - a great desire to have something that you may never be able to get
+  - let a person down who trusted you
+  - what a person is known for
+  - someone who has been rejected or driven out by others
+  - a loud, low-pitched sound, usually made to show distress
+  - scattered pieces of something that has been destroyed
+  - inside a person, an object, or a place
+  - annoying but not important
+  - jerk suddenly
+  - examples of things scientists collect in order to study
+  - people or animals that live in a place
+  - change your behavior to fit a new situation
+  - when a ship has veered onto its side and is in danger of sinking
+  - break suddenly and violently into small pieces
+  - led and guided something
+  - hardly ever happens
+  - noisy, rough, and out of control
+  - calm, serious, and respectful
+  - can catch fire easily and burn rapidly
   answers:
   - provoke
   - customary
@@ -2413,6 +2435,28 @@ MonoBehaviour:
   - rigid
   - elastic
   - elongates
+  - unfathomable
+  - escapades
+  - withered
+  - yearning
+  - betrayed
+  - reputation
+  - outcast
+  - bellowing
+  - debris
+  - internal
+  - pesky
+  - recoil
+  - specimens
+  - residents
+  - adjust
+  - broached
+  - shatter
+  - conducted
+  - seldom
+  - rowdy
+  - dignified
+  - inflammable
   definitionTextBox: {fileID: 734772939}
   buttonTextArray:
   - {fileID: 2059731111}
