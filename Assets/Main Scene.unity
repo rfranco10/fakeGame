@@ -2307,6 +2307,16 @@ MonoBehaviour:
   - noisy, rough, and out of control
   - calm, serious, and respectful
   - can catch fire easily and burn rapidly
+  - a mix of different things, often put together without much planning
+  - forgets things easily
+  - makes small changes
+  - upset about something and unsure of how to deal with it
+  - shocked and disgusted about something
+  - not as good or as large as it needs to be
+  - unhappy because things have not turned out the way you wanted
+  - not bragging or showing off
+  - showing kindness by giving money or gifts to organizations that need them
+  - well known and important
   answers:
   - provoke
   - customary
@@ -2457,6 +2467,16 @@ MonoBehaviour:
   - rowdy
   - dignified
   - inflammable
+  - concoction
+  - absentminded
+  - amends
+  - dismayed
+  - aghast
+  - inadequate
+  - disgruntled
+  - modest
+  - charity
+  - eminent
   definitionTextBox: {fileID: 734772939}
   buttonTextArray:
   - {fileID: 2059731111}
