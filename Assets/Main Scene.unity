@@ -2317,6 +2317,20 @@ MonoBehaviour:
   - not bragging or showing off
   - showing kindness by giving money or gifts to organizations that need them
   - well known and important
+  - made difficult or impossible to change
+  - when something's parts are not too large or too small
+  - pictured something in your mind
+  - something you say or do in order to express a feeling to someone
+  - given something most of his or her time and attention
+  - people who have studied certain topics and know a lot about them
+  - certain things will happen because they were meant to be
+  - made a request with a lot of feeling
+  - trying to get someone to agree with your plan or opinion
+  - met someone unexpectedly
+  - trying hard and not giving up
+  - moved or guided something very carefully
+  - a situation that suddenly becomes very dangerous or difficult
+  - extremely important
   answers:
   - provoke
   - customary
@@ -2477,6 +2491,20 @@ MonoBehaviour:
   - modest
   - charity
   - eminent
+  - resisted
+  - in proportion
+  - envisioned
+  - gesture
+  - specialized
+  - scholars
+  - destiny
+  - appealed
+  - persuading
+  - encountered
+  - perseverance
+  - maneuvered
+  - crisis
+  - crucial
   definitionTextBox: {fileID: 734772939}
   buttonTextArray:
   - {fileID: 2059731111}
