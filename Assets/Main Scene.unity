@@ -2361,6 +2361,25 @@ MonoBehaviour:
   - odd
   - bother or confuse
   - agreed to something someone once refused
+  - doing something without really wanting to
+  - importantly and quickly
+  - showing irritation because you feel you have been insulted or treated unfairly
+  - showed with your words and expression that you had little respect for that person
+  - wanting something so much that you'll do almost anything to get it
+  - forced something away from a surface
+  - made to feel very excited and energetic
+  - unkind smile
+  - chosen for a special purpose
+  - thinks too highly of himself or herself
+  - has been very important in a particular place
+  - extremely embarrased or ashamed
+  - someone with special knowledge about a particular subject
+  - gently talked into something
+  - honest and meaning what you say
+  - pausing before doing something because you feel unsure
+  - along the edges, far away from the center
+  - hopes about how well others will do or about how they should behave
+  - a feeling of shame or embarrassment
   answers:
   - provoke
   - customary
@@ -2565,6 +2584,25 @@ MonoBehaviour:
   - eccentric
   - faze
   - relented
+  - grudgingly
+  - urgently
+  - indignantly
+  - sneered
+  - desperately
+  - pried
+  - exhilarated
+  - smirk
+  - designated
+  - conceited
+  - reigned
+  - mortified
+  - maven
+  - coaxed
+  - sincere
+  - hesitating
+  - fringes
+  - expectation
+  - humiliation
   definitionTextBox: {fileID: 734772939}
   buttonTextArray:
   - {fileID: 2059731111}
