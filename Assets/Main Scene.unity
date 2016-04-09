@@ -2331,6 +2331,36 @@ MonoBehaviour:
   - moved or guided something very carefully
   - a situation that suddenly becomes very dangerous or difficult
   - extremely important
+  - announced something to a group of people
+  - a lot of noise and fuss
+  - bizzare, strange, and unusual
+  - pushed something or poked it gently
+  - said words to make someone feel positive that things will be all right
+  - keep thinking and worrying about something
+  - difficult to turn away from
+  - people who are having fun at a lively party or celebration
+  - moved quickly and gathered in large numbers
+  - rough and harsh
+  - serious and forbidding
+  - thankful
+  - feeling as though your wishes probably won't come true
+  - very impressive and draws a lot of attention
+  - failure
+  - overpowered
+  - quickly and excitedly
+  - a way of demonstrating that you are against something
+  - hold something back or limit it
+  - strikingly or impressively
+  - suddenly and badly affected by something
+  - a forecast or prediction
+  - warm and friendly
+  - worked hard to make a change based on his or her beliefs
+  - impossible to travel on
+  - disappointed and less hopeful
+  - made someone feel extremely angry
+  - odd
+  - bother or confuse
+  - agreed to something someone once refused
   answers:
   - provoke
   - customary
@@ -2505,6 +2535,36 @@ MonoBehaviour:
   - maneuvered
   - crisis
   - crucial
+  - proclaimed
+  - ruckus
+  - outlandish
+  - nudged
+  - assured
+  - fret
+  - irresistible
+  - revelers
+  - swarmed
+  - raspy
+  - grim
+  - grateful
+  - wistful
+  - spectacular
+  - flop
+  - overcome
+  - feverishly
+  - protest
+  - restrain
+  - dramatically
+  - stricken
+  - prognostication
+  - genial
+  - crusaded
+  - impassable
+  - disheartened
+  - infuriated
+  - eccentric
+  - faze
+  - relented
   definitionTextBox: {fileID: 734772939}
   buttonTextArray:
   - {fileID: 2059731111}
